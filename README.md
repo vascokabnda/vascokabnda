@@ -1,5 +1,7 @@
 
-[![vascokabnda's GitHubCard](https://githubcard.com/vascokabnda.svg?d=GjJPKPvOEecz)]([https://githubcard.com/vascokabnda/card?utm_source=github&utm_medium=readme](https://githubcard.com/g/d5sqWJTKMN04mS7t.svg))
+<p align="center">
+  <img src="banner.png" alt="vascokabnda banner" width="100%">
+</p>
 ## Olá, sou o Vasco!
 [![LinkedIn](https://img.shields.io/badge/-Vasco%20J%20F%20Kabenda-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vascokabnda/)](https://www.linkedin.com/in/vascokabnda/)
  [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fvascojosejr)](https://x.com/vascojosejr)
